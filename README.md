@@ -44,7 +44,7 @@ The application consists of three primary models:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/dennoAiden/concert-domain
+   git clone https://github.com/limoh653/concert-domain
    cd concert-domain
 2. Create a Virtual Environment.
 
@@ -83,7 +83,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact Dennis Kipkurui at dennis.kipkurui@student.moringaschool.com
+For any inquiries, please contact Hesbon limo at limohesbon7@gmail.com
 
 
 
